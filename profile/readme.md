@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="Organization Logo" width="150">
+</p>
+
+<h1 align="center">We Build Systems That Help Businesses Grow</h1>
+
+<p align="center">
+  We design and build modern digital systems that turn ideas into reliable products
+  and help businesses grow through technology.
+</p>
+
 # We Build Systems That Help Businesses Grow
 
 We design and build modern digital systems that turn ideas into reliable products and help businesses grow through technology.
