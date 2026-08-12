@@ -9,15 +9,13 @@
   and help businesses grow through technology.
 </p>
 
-# We Build Systems That Help Businesses Grow
-
-We design and build modern digital systems that turn ideas into reliable products and help businesses grow through technology.
-
+<p align="center">
 From academic platforms and restaurant systems to SaaS products, e-commerce platforms, business management solutions, and custom web applications — we build software around real business needs.
+</p>
 
 ---
 
-## What We Build
+<h1 align="center">What We Build</h1>
 
 We create complete digital solutions for different industries and business needs.
 
@@ -118,9 +116,9 @@ We build software around your specific idea, workflow, and requirements.
 
 ---
 
-# Technology Stack
+<h1 align="center"> Technology Stack</h1>
 
-## Frontend
+<h2 align="center"> Frontend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
@@ -132,7 +130,7 @@ React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
 ---
 
-## Backend
+<h2 align="center"> Backend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
@@ -144,7 +142,7 @@ Node.js · NestJS · Express · TypeScript
 
 ---
 
-## Databases & Services
+<h2 align="center"> Databases & Services</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
@@ -156,7 +154,7 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
 ---
 
-## Full-Stack Architectures
+<h2 align="center"> Full-Stack Architectures</h2>
 
 ### MERN Stack
 
