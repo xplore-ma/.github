@@ -199,40 +199,5 @@ Our systems connect modern frontend applications, scalable APIs, databases, clou
 <h3 align="center">Typical Architecture</h3>
 
 <pre align="center">
-                         USERS
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │   Web Applications  │
-                │   Next.js / React   │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │      API Layer      │
-                │   REST / GraphQL    │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │    Backend System   │
-                │  NestJS / Node.js   │
-                └──────────┬──────────┘
-                           │
-              ┌────────────┼────────────┐
-              ▼            ▼            ▼
-         PostgreSQL     MongoDB       Redis
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │   Docker / CI/CD    │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │   Cloud / Servers   │
-                │ AWS · GCP · Firebase│
-                └─────────────────────┘
+  <img src="../assets/arch.png" alt="Organization architecture" width="80%">
 </pre>
