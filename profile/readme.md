@@ -17,108 +17,32 @@ From academic platforms and restaurant systems to SaaS products, e-commerce plat
 
 <h1 align="center">What We Build</h1>
 
-We create complete digital solutions for different industries and business needs.
+<p align="center">We create complete digital solutions for different industries and business needs.</p>
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### Academic Platforms
+| Academic Platforms | Restaurant Systems |
+|:---:|:---:|
+| Web platforms for schools, universities, training centers, and educational organizations. | Modern systems that simplify restaurant operations. |
+| • Student management<br>• Course & class management<br>• Teacher dashboards<br>• Online learning<br>• Attendance & scheduling<br>• Academic administration | • Restaurant management<br>• Online ordering<br>• Menu management<br>• Table management<br>• Kitchen management<br>• Delivery & order tracking |
 
-Web platforms for schools, universities, training centers, and educational organizations.
+| Business Systems | SaaS Platforms |
+|:---:|:---:|
+| Custom platforms designed around business workflows. | Scalable cloud applications designed for growing businesses. |
+| • CRM<br>• ERP<br>• Management dashboards<br>• Employee management<br>• Inventory systems<br>• Business automation | • Multi-tenant platforms<br>• Subscription systems<br>• Admin dashboards<br>• Analytics<br>• Authentication<br>• Role-based access |
 
-- Student management
-- Course & class management
-- Teacher dashboards
-- Online learning
-- Attendance & scheduling
-- Academic administration
+| E-Commerce | Custom Applications |
+|:---:|:---:|
+| Complete online commerce experiences. | We build software around your specific idea, workflow, and requirements. |
+| • Online stores<br>• Product management<br>• Shopping carts<br>• Payments<br>• Orders<br>• Customer management | • Web applications<br>• APIs<br>• Internal tools<br>• Automation<br>• Integrations<br>• Real-time systems |
 
-</td>
-<td width="50%">
-
-### Restaurant Systems
-
-Modern systems that simplify restaurant operations.
-
-- Restaurant management
-- Online ordering
-- Menu management
-- Table management
-- Kitchen management
-- Delivery & order tracking
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Business Systems
-
-Custom platforms designed around business workflows.
-
-- CRM
-- ERP
-- Management dashboards
-- Employee management
-- Inventory systems
-- Business automation
-
-</td>
-<td width="50%">
-
-### SaaS Platforms
-
-Scalable cloud applications designed for growing businesses.
-
-- Multi-tenant platforms
-- Subscription systems
-- Admin dashboards
-- Analytics
-- Authentication
-- Role-based access
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### E-Commerce
-
-Complete online commerce experiences.
-
-- Online stores
-- Product management
-- Shopping carts
-- Payments
-- Orders
-- Customer management
-
-</td>
-<td width="50%">
-
-### Custom Applications
-
-We build software around your specific idea, workflow, and requirements.
-
-- Web applications
-- APIs
-- Internal tools
-- Automation
-- Integrations
-- Real-time systems
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<h1 align="center"> Technology Stack</h1>
+<h1 align="center">Technology Stack</h1>
 
-<h2 align="center"> Frontend</h2>
+<h2 align="center">Frontend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
@@ -130,7 +54,7 @@ React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
 ---
 
-<h2 align="center"> Backend</h2>
+<h2 align="center">Backend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
@@ -142,7 +66,7 @@ Node.js · NestJS · Express · TypeScript
 
 ---
 
-<h2 align="center"> Databases & Services</h2>
+<h2 align="center">Databases & Services</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
@@ -154,7 +78,7 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
 ---
 
-<h2 align="center"> Full-Stack Architectures</h2>
+<h2 align="center">Full-Stack Architectures</h2>
 
 ### MERN Stack
 
@@ -163,12 +87,12 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 </p>
 
 <p align="center">
-
-**MongoDB · Express · React · Node.js**
-
+<strong>MongoDB · Express · React · Node.js</strong>
 </p>
 
+<p align="center">
 A flexible stack for modern web applications and business platforms.
+</p>
 
 ### Next.js + NestJS + PostgreSQL
 
@@ -177,24 +101,28 @@ A flexible stack for modern web applications and business platforms.
 </p>
 
 <p align="center">
-
-**Next.js · NestJS · PostgreSQL · TypeScript**
-
+<strong>Next.js · NestJS · PostgreSQL · TypeScript</strong>
 </p>
 
+<p align="center">
 A modern architecture for scalable SaaS platforms, dashboards, business applications, and complex systems.
+</p>
 
 ---
 
-# System Architecture
+<h1 align="center">System Architecture</h1>
 
 <p align="center">
   <img src="./assets/architecture.gif" alt="System Architecture" width="850">
 </p>
 
+<p align="center">
 Our systems connect modern frontend applications, scalable APIs, databases, cloud infrastructure, and automated deployment pipelines.
+</p>
 
-### Typical Architecture
+<h3 align="center">Typical Architecture</h3>
+
+<div align="center">
 
 ```text
                          USERS
