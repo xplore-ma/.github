@@ -1,117 +1,226 @@
 # We Build Systems That Help Businesses Grow
 
-We design and build modern, scalable, and reliable software systems that help businesses turn ideas into real products and grow with technology.
+We design and build modern digital systems that turn ideas into reliable products and help businesses grow through technology.
 
-From SaaS platforms and web applications to APIs, cloud infrastructure, and automation, we focus on building solutions that are maintainable, secure, and ready to scale.
+From academic platforms and restaurant systems to SaaS products, e-commerce platforms, business management solutions, and custom web applications — we build software around real business needs.
 
 ---
 
 ## What We Build
 
-We create complete digital systems tailored to business needs:
+We create complete digital solutions for different industries and business needs.
 
-- SaaS platforms
+<table>
+<tr>
+<td width="50%">
+
+### Academic Platforms
+
+Web platforms for schools, universities, training centers, and educational organizations.
+
+- Student management
+- Course & class management
+- Teacher dashboards
+- Online learning
+- Attendance & scheduling
+- Academic administration
+
+</td>
+<td width="50%">
+
+### Restaurant Systems
+
+Modern systems that simplify restaurant operations.
+
+- Restaurant management
+- Online ordering
+- Menu management
+- Table management
+- Kitchen management
+- Delivery & order tracking
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Business Systems
+
+Custom platforms designed around business workflows.
+
+- CRM
+- ERP
+- Management dashboards
+- Employee management
+- Inventory systems
+- Business automation
+
+</td>
+<td width="50%">
+
+### SaaS Platforms
+
+Scalable cloud applications designed for growing businesses.
+
+- Multi-tenant platforms
+- Subscription systems
+- Admin dashboards
+- Analytics
+- Authentication
+- Role-based access
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### E-Commerce
+
+Complete online commerce experiences.
+
+- Online stores
+- Product management
+- Shopping carts
+- Payments
+- Orders
+- Customer management
+
+</td>
+<td width="50%">
+
+### Custom Applications
+
+We build software around your specific idea, workflow, and requirements.
+
 - Web applications
-- Business management systems
-- REST & GraphQL APIs
-- E-commerce platforms
-- Authentication & authorization systems
-- Real-time applications
-- Cloud-based systems
-- Automation & integrations
-- DevOps & deployment infrastructure
+- APIs
+- Internal tools
+- Automation
+- Integrations
+- Real-time systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Technology Stack
+# Technology Stack
 
-### Frontend
+## Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
 </p>
 
-**React · Next.js · HTML · CSS · Tailwind CSS · JavaScript · TypeScript**
+<p align="center">
+React · Next.js · TypeScript · JavaScript · Tailwind CSS
+</p>
 
-### Backend
+---
 
-<p>
+## Backend
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
 </p>
 
-**Node.js · NestJS · Express · TypeScript**
+<p align="center">
+Node.js · NestJS · Express · TypeScript
+</p>
 
-### Databases
+---
 
-<p>
+## Databases & Services
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
 </p>
 
-**PostgreSQL · MongoDB · MySQL · Redis · Firebase**
+<p align="center">
+PostgreSQL · MongoDB · MySQL · Redis · Firebase
+</p>
+
+---
+
+## Full-Stack Architectures
 
 ### MERN Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
+<p align="center">
+
 **MongoDB · Express · React · Node.js**
+
+</p>
+
+A flexible stack for modern web applications and business platforms.
 
 ### Next.js + NestJS + PostgreSQL
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
 </p>
 
-A modern full-stack architecture for scalable SaaS platforms and business applications.
+<p align="center">
 
----
+**Next.js · NestJS · PostgreSQL · TypeScript**
 
-## DevOps & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,nginx,linux,aws,gcp,firebase" />
 </p>
 
-**Docker · GitHub Actions · Nginx · Linux · AWS · Google Cloud · Firebase**
-
-We use containerization, CI/CD, cloud infrastructure, and automated deployment workflows to deliver reliable applications.
+A modern architecture for scalable SaaS platforms, dashboards, business applications, and complex systems.
 
 ---
 
-## Tools & Development
+# System Architecture
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,pnpm" />
+<p align="center">
+  <img src="./assets/architecture.gif" alt="System Architecture" width="850">
 </p>
 
-**Git · GitHub · VS Code · Postman · Figma · npm · pnpm**
+Our systems connect modern frontend applications, scalable APIs, databases, cloud infrastructure, and automated deployment pipelines.
 
----
-
-## Architecture
-
-We build systems with modern engineering practices:
+### Typical Architecture
 
 ```text
-Client
-   │
-   ▼
-Next.js / React
-   │
-   ▼
-API
-   │
-   ▼
-NestJS / Node.js
-   │
-   ├── PostgreSQL
-   ├── MongoDB
-   ├── Redis
-   └── Firebase
-   │
-   ▼
-Docker
-   │
-   ▼
-Cloud Infrastructure
+                         USERS
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   Web Applications  │
+                │   Next.js / React   │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │      API Layer      │
+                │   REST / GraphQL    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │    Backend System   │
+                │  NestJS / Node.js   │
+                └──────────┬──────────┘
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+         PostgreSQL     MongoDB       Redis
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   Docker / CI/CD    │
+                └──────────┬──────────┘
+                           │
+                           ▼
+                ┌─────────────────────┐
+                │   Cloud / Servers   │
+                │ AWS · GCP · Firebase│
+                └─────────────────────┘
