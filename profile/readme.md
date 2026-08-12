@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../assets/logo.jpeg" alt="Organization Logo" width="150">
+  <img src="../assets/logo.jpeg" alt="Organization Logo" width="359">
 </p>
 
 <h1 align="center">We Build Systems That Help Businesses Grow</h1>
