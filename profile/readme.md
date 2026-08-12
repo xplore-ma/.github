@@ -156,7 +156,7 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
 <h2 align="center"> Full-Stack Architectures</h2>
 
-### MERN Stack
+<h3 align="center"> MERN Stack </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
@@ -168,9 +168,11 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
 </p>
 
+<p align="center">
 A flexible stack for modern web applications and business platforms.
+</p>
 
-### Next.js + NestJS + PostgreSQL
+<h3 align="center"> Next.js + NestJS + PostgreSQL</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
@@ -181,9 +183,9 @@ A flexible stack for modern web applications and business platforms.
 **Next.js · NestJS · PostgreSQL · TypeScript**
 
 </p>
-
+<p align="center">
 A modern architecture for scalable SaaS platforms, dashboards, business applications, and complex systems.
-
+</p>
 ---
 
 <h1 align="center">System Architecture</h1>
