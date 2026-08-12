@@ -17,7 +17,7 @@ From academic platforms and restaurant systems to SaaS products, e-commerce plat
 
 <h1 align="center">What We Build</h1>
 
-We create complete digital solutions for different industries and business needs.
+<p align="center">We create complete digital solutions for different industries and business needs.</p>
 
 <table>
 <tr>
@@ -116,9 +116,9 @@ We build software around your specific idea, workflow, and requirements.
 
 ---
 
-<h1 align="center"> Technology Stack</h1>
+<h1 align="center">Technology Stack</h1>
 
-<h2 align="center"> Frontend</h2>
+<h2 align="center">Frontend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,js,ts" />
@@ -130,7 +130,7 @@ React · Next.js · TypeScript · JavaScript · Tailwind CSS
 
 ---
 
-<h2 align="center"> Backend</h2>
+<h2 align="center">Backend</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts" />
@@ -142,7 +142,7 @@ Node.js · NestJS · Express · TypeScript
 
 ---
 
-<h2 align="center"> Databases & Services</h2>
+<h2 align="center">Databases & Services</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase" />
@@ -154,38 +154,36 @@ PostgreSQL · MongoDB · MySQL · Redis · Firebase
 
 ---
 
-<h2 align="center"> Full-Stack Architectures</h2>
+<h2 align="center">Full-Stack Architectures</h2>
 
-<h3 align="center"> MERN Stack </h3>
+<h3 align="center">MERN Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
 <p align="center">
-
-**MongoDB · Express · React · Node.js**
-
+<strong>MongoDB · Express · React · Node.js</strong>
 </p>
 
 <p align="center">
 A flexible stack for modern web applications and business platforms.
 </p>
 
-<h3 align="center"> Next.js + NestJS + PostgreSQL</h3>
+<h3 align="center">Next.js + NestJS + PostgreSQL</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,nestjs,postgres,ts" />
 </p>
 
 <p align="center">
-
-**Next.js · NestJS · PostgreSQL · TypeScript**
-
+<strong>Next.js · NestJS · PostgreSQL · TypeScript</strong>
 </p>
+
 <p align="center">
 A modern architecture for scalable SaaS platforms, dashboards, business applications, and complex systems.
 </p>
+
 ---
 
 <h1 align="center">System Architecture</h1>
@@ -194,11 +192,13 @@ A modern architecture for scalable SaaS platforms, dashboards, business applicat
   <img src="./assets/architecture.gif" alt="System Architecture" width="850">
 </p>
 
+<p align="center">
 Our systems connect modern frontend applications, scalable APIs, databases, cloud infrastructure, and automated deployment pipelines.
+</p>
 
-### Typical Architecture
+<h3 align="center">Typical Architecture</h3>
 
-```text
+<pre align="center">
                          USERS
                            │
                            ▼
@@ -235,3 +235,4 @@ Our systems connect modern frontend applications, scalable APIs, databases, clou
                 │   Cloud / Servers   │
                 │ AWS · GCP · Firebase│
                 └─────────────────────┘
+</pre>
